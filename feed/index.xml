@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Plumiguard</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://addcolouragency.github.io/plumiguard/feed/" rel="self" type="application/rss+xml" />
+	<link>https://addcolouragency.github.io/plumiguard</link>
 	<description>Plant Hire &#38; Transport</description>
 	<lastBuildDate>Wed, 19 Aug 2020 09:38:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/2020/08/19/hello-world/</link>
-					<comments>/2020/08/19/hello-world/#comments</comments>
+		<link>https://addcolouragency.github.io/plumiguard/2020/08/19/hello-world/</link>
+					<comments>https://addcolouragency.github.io/plumiguard/2020/08/19/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[melusi]]></dc:creator>
 		<pubDate>Wed, 19 Aug 2020 09:38:03 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>/2020/08/19/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://addcolouragency.github.io/plumiguard/2020/08/19/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
